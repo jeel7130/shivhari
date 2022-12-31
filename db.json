@@ -1,0 +1,17 @@
+{
+  "metlon": [
+    { 
+      "id": 1,
+      "date": "",
+      "company_serial_number": "", 
+      "metlizer_serial_number" : "",
+      "roll_number": "",
+      "company_weight_net": "",
+      "metlizer_weight_net": "",
+      "Taiyar_weight": "",
+      "gen": "",
+      "cost": "",
+      "gen_sell": ""
+    }
+  ]
+}
